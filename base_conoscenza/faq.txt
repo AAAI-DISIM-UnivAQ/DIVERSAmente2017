@@ -1,0 +1,139 @@
+Q In quale anno fu prodotto il film Blade runner?
+Q Quando è uscito nelle sale cinematografiche il film Blade runner?
+Q A quando risale la realizzazione del film Blade runner?
+Q Di quale anno è il film Blade runner?
+Q Quando Ridley Scott ha diretto il film Blade runner?
+A Il film Blade runner è del 1982
+A L'anno di uscita nelle sale è il 1982
+
+Q Chi ha diretto il film Blade runner?
+Q Qual è il regista di Blade runner?
+Q Come si chiama il regista di Blade runner?
+Q Qual è il nome del regista di Blade runner?
+Q Chi ha curato le riprese del film Blade runner?
+A Ridley Scott
+
+Q A quale romanzo di fantascienza è liberamente ispirato il film Blade runner?
+Q Come si intitola il romanzo da cui è tratto il film Blade runner?
+Q Da quale opera della letteratura fantascientifica è tratto il film Blade runner?
+Q Da quale romanzo ha preso spunto Ridley Scott per il suo Blade runner?
+Q Qual è il titolo del romanzo a cui si ispira il film Blade runner?
+Q Come si chiama il romanzo rivisitato cinematograficamente da Blade runner?
+Q Blade runner è l’adattamento cinematografico di quale romanzo?
+A “Ma gli androidi sognano pecore elettriche?” dello scrittore americano Philip Dick
+
+Q Dove è ambientata la vicenda?
+Q Dove si svolge la storia?
+Q In quale città avvengono i fatti?
+Q Dove viene girato il film?
+Q In quale ambientazione si sceglie di realizzare le scene del film?
+Q In quale luogo è ambientato il film Blade runner?
+A In una distopica Los Angeles del 2019
+A A Los Angeles nel 2019
+
+Q Chi riveste il ruolo più importante nella trama del film Blade runner?
+Q Quale personaggio risulta l’eroe positivo nell’equilibrio della trama del film Blade runner?
+Q Chi ha un ruolo di primo piano nelle vicende narrate nel film Blade Runner?
+Q Quale blade runner uccide i Nexus 6?
+Q Quale detective uccide i Nexus 6?
+Q Chi da la caccia al gruppo di Nexus ribelli?
+Q Chi interpreta nel film Harrison Ford?
+Q Chi uccide Pris?
+A Rick Deckard
+
+Q Come possono essere definiti i replicanti?
+Q Che tipo di tecnologia ha sviluppato la Tyrell Corporation?
+Q Che caratteristiche hanno i replicanti?
+A Essi sono androidi organici uguali in tutto agli esseri umani, ma con una forza superiore e dotati di intelligenza artificiale.
+A I replicanti sono forme evolute di androidi, tanto simili all'uomo da poter essere scambiati per essere umani.
+
+Q Qual è la durata massima di un replicante?
+Q Dopo quanti anni dalla loro produzione devono essere eliminati i replicanti?
+Q I Nexus 6 sono stati geneticamente programmati per vivere per quanti anni?
+Q Dopo quale intervallo di tempo i Nexus 6 devono essere eliminati per non sviluppare sentimenti umani?
+Q Per quanto tempo i Nexus 6 possono vivere prima di essere eliminati?
+Q Quale è il limite di vita dei replicanti?
+Q Entro quanto tempo devono essere ritirati i replicanti?
+A Il termine entro cui dovrebbero essere ritirati i replicanti è pari a 4 anni
+A I Nexus 6 sono stati geneticamente programmati per vivere non più di 4 anni
+A La durata sarebbe infinita, ma dopo 4 anni rischiano di sviluppare emozioni proprie e per questo sono stati limitati.
+
+Q Qual è il problema di Roy?
+Q Cosa affligge Roy?
+Q Cosa fa soffrire Roy a tal punto da renderlo un eroe romantico?
+Q Perchè Roy soffre?
+Q Per quale motivo Roy ucciderà Tyrell?
+Q Perchè Roy può essere definito un replicante ribelle?
+A Roy rifiuta il concetto di morte e vuole più vita dal suo creatore.
+A Roy si ribella all'idea di essere terminato.
+A Roy ha una percezione di autocoscienza e rifiuta di essere trattato come una macchina.
+
+Q Qual è l’unico modello sperimentale di replicante senza un limite di vita?
+Q Quale Nexus è stato progettato senza limiti temporali?
+Q Quale replicante non dover essere eliminato dopo 4 anni?
+Q Quale replicante non ha limiti di vita?
+Q Come si chiama l’unico replicante che Tyrell ha progettato senza programmarne la morte dopo 4 anni?
+A Rachel è l’unico replicante progettato senza limiti di vita
+A Rachel, che è la creatura prediletta del creatore dei replicanti, Dr. Tyrell.
+
+Q Quando si svolgono gli eventi?
+Q Quando si volge la vicenda?
+Q In quale anno si svolgono i fatti?
+Q In che periodo è ambientata la trama?
+A La vicenda si svolge nel 2019
+A Nel 2019, quando alcuni Nexus venivano usati nelle colonie extramondo.
+
+Q Che ruolo hanno i blade runner?
+Q Che funzione hanno i blade runner?
+Q Quale compito hanno i blade runner?
+Q A cosa danno la caccia i blade runner?
+Q Qual è l'incarico assegnato ai blade runner dalla polizia di Los Angeles?
+A Gli agenti speciali "blade runner" hanno il compito di dare la caccia ai Nexus 6 e ritirarli dal servizio.
+A I blade runner devono assicurare che non ci siano replicanti ribelli sulla Terra.
+
+Q Cosa fabbrica la Tyrell Corporation?
+Q Di cosa si occupa la Tyrell Corporation?
+Q Cosa si produce alla Tyrell Corporation?
+Q Quale funzione ha la Tyrell Corporation a Los Angeles?
+A La Tyrell Corporation produce replicanti, tra i quali i Nexus 6.
+A La Tyrell Corporation, attraverso avanzate tecniche di ingegneria genetica, produce androidi replicanti.
+
+Q A quale test Deckard sottopone i sospetti per capire se sono replicanti?
+Q Quale metodo usa Deckard per smascherare i replicanti?
+Q Quale dispositivo usa Deckard per misurare le reazioni fisiologiche di un individuo per determinare se si tratta di un replicante?
+Q Quale macchinario utilizzano i blade runners per capire se hanno a che fare con un replicante?
+A Deckard utilizza la macchina Voight-Kampff, ovvero un poligrafo che misura diversi paramentri fisiologici, come la dilatazione della pupilla e l'arrossamento involontario in risposta a domande emozionalmente provocatorie
+A Il test con la macchina Voight-Kampff si può riconoscere un replicante da un essere umano.
+
+Q Qual è il tema principale del film Blade runner?
+Q Qual è il messaggio del film?
+Q Quali tematiche affronta il film?
+Q In che cosa si può sintetizzare il senso del film?
+A Blade Runner si interroga sulle possibilità offerte dall'eugenetica e dalla clonazione nella creazione di replicanti e sulle implicazioni morali, etiche e religiose derivanti.
+A Mettere a confronto le potenzialità umane con la tecnologia dell'intelligenza artificiale e dell'ingegneria genetica.
+
+Q Qual è la frase più famosa del film?
+Q Quali parole famose pronuncia Roy?
+Q Quale citazione è la più nota nel film e nel romanzo?
+Q Quale battuta famosa è particolarmente conosciuta?
+A Io ne ho viste cose che voi umani non potreste immaginarvi. Navi da combattimento in fiamme al largo dei bastioni di Orione... e ho visto i raggi Beta balenare nel buio vicino alle porte di Tannhäuser. E tutti quei momenti andranno perduti nel tempo come lacrime nella pioggia. È tempo di morire.
+
+Q Come si chiama il nuovo film di Blade Runner?
+Q Come si intitola il nuovo Blade Runner?
+Q Qual è il nome del nuovo Blade Runner?
+Q Qual è il titolo del sequel di Blade Runner?
+Q Quale sequel di Blade Ruuner sta per uscire nelle sale cinematografiche?
+A Il nuovo film di Blade Runner si chiama "Blade Runner 2049".
+
+Q Quando uscirà nelle sale cinematografiche il nuovo film di Blade Runner?
+Q Quando è prevista l'uscita ai botteghini del nuovo film di Blade Runner?
+Q In quale mese uscirà Blade Runner 2049?
+Q Per quale data è prevista l'uscita di Blade Runner 2049?
+A L'uscita di "Blade Runner 2049" è prevista per il 10 Giugno 2017.
+A Il nuovo film "Blade Runner 2049" uscirà il 10 Giugno 2017 e chiarirà gli sviluppi dell'attività del Blade Runner 30 anni dopo.
+
+Q Che genere di film è Blade Runner?
+Q Che tipologia di film è Blade Runner?
+Q A quale genere cinematografico appartiene Blade Runner?
+A Blade Runner è un cult movie del genere fantascientifico.
+A Blade Runner è un film di fantascienza , in stile cyberpunk/noir.
