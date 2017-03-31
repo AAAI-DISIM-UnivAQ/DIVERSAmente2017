@@ -1,0 +1,37 @@
+G androide
+D L'androide è un essere artificiale, un robot, con sembianze umane, presente soprattutto nell'immaginario fantascientifico. In taluni casi l'androide può risultare indistinguibile dall'essere umano. Differisce dal cyborg, il quale è costituito da parti biologiche oltre che artificiali.
+
+G Nexus 6
+D I Nexus 6 sono dei replicanti di ultima generazione, ovvero degli androidi usati come forza lavoro nelle colonie extra-terrestri.
+
+G Replicanti
+D I replicanti sono androidi organici creati dalla Tyrell Corporation con avanzate tecniche di ingegneria genetica, in tutto agli esseri umani, ma con una forza superiore e dotati di intelligenza artificiale.
+
+G Rachel
+D Rachel è una giovane replicante, ultima creatura di Tyrell, che non sa di essere un androide. Deckard si innamora di lei. Nel film il suo ruolo è interpretato da Sean Young 
+
+G Deckard
+D ex Blade Runner per il DPLA (Dipartimento di Polizia di Los Angeles). Nel film Deckard è interpretato da Harrison Ford
+
+G Roy
+D leader del gruppo di sei replicanti rinnegati; modello da combattimento. Nel film Roy Batty è interpretato dall'attore Rutger Hauer
+
+G Pris
+D Pris è il diminutivo di Priscilla Stratton, modello femminile di replicante e fidanzata di Roy Batty. Il suo ruolo nel film è interpretato da Daryl Hannah
+
+G Blade runner
+D I blade runner sono agenti speciali incaricati dal DPLA(Dipartimento di Polizia di Los Angeles) di neutralizzare i replicanti al termine del loro ciclo vitale
+
+G Tyrell Corporation
+D La Tyrell Corporation è un colosso industriale che ha sviluppato nuove tecnologie che consentono di fabbricare i replicanti, ovvero i Nexus 6
+
+G protagonista
+G protagonista film
+G protagonista film Blade Runner
+D Rick Deckard è il protagonista nel film, un ex Blade Runner per il DPLA
+
+G: Leon
+D: Leon è uno dei replicanti fuggiti che cerca lavoro alla Tyrel Corporation
+
+G: Sebastian
+D: Sebastian è un genetista e amico del dottor Tyrell
