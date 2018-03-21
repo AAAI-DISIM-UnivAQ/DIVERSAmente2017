@@ -1,7 +1,7 @@
 # Base di Conoscenza Linguistica di
 ## Hally 2017
 
-Questi file costituiscono la base di conoscenza come input alla generazione di un chatbot esperto sul film [BLade Runner](http://it.wikipedia.org/wiki/Blade_Runner) .
+Questi file costituiscono la base di conoscenza come input alla generazione di un chatbot esperto sul film [Blade Runner](http://it.wikipedia.org/wiki/Blade_Runner) .
 
 Indice:
 
